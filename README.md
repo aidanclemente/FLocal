@@ -4,7 +4,7 @@
 
 FLocal gives Snowbirds the opportunity to get the local Florida experience. Locals suggest hidden gems throughout Florida for administrators to approve.
 
-Visit FLocal [Here](https://salty-waters-36162.herokuapp.com/)
+Deployed on Heroku. Please, visit FLocal [https://salty-waters-36162.herokuapp.com/](https://salty-waters-36162.herokuapp.com/)
 
 ## Built With
 
